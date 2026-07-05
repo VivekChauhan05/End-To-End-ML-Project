@@ -1,4 +1,0 @@
-[core]
-    remote = app
-['remote "app"']
-    url = ../S3
